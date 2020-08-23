@@ -7,3 +7,4 @@ List of Projects
 3. A New Era of Data Analysis in Baseball
 4. Do Left-handed People Really Die Young? 
 5. Up and Down With the Kardashians!!
+6. Exploring 67 years of LEGO
