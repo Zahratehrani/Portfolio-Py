@@ -4,4 +4,4 @@ Each project includes different sections such as, problem statement, Dataset int
 List of Projects
 1. Analyze Your Runkeeper Fitness Data 
 2. Classify Song Genres from Audio Data
-
+3. A New Era of Data Analysis in Baseball
