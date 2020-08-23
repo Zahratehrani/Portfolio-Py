@@ -3,4 +3,5 @@ In this repository, you will find information of different projects that I have 
 Each project includes different sections such as, problem statement, Dataset introduction, Results and Future recommendations.
 List of Projects
 1. Analyze Your Runkeeper Fitness Data 
+2. Classify Song Genres from Audio Data
 
